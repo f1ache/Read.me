@@ -1,4 +1,4 @@
-# Attributi
+# Attrib
 
 
 ![Language](https://img.shields.io/badge/Spellcheck-Pass-green?style=flat) |Indica che lo spelling sia del README.md che della documentazione è corretto (verifica errori di battitura)
@@ -25,7 +25,7 @@ In sintesi, il programma esegue una scansione dei file nella directory corrente 
 Per eseguire questo codice Python, segui questi passaggi:
 1.Apri una finestra di Commmand Promt o un ambiente virtuale python 
 2.Naviga nella directory in cui hai salvato il file Python utilizzando il comando cd 
-3.Esegui il file Python con il comando attributi.py per [Esempio ](https://github.com/f1ache/Read.me/blob/main/Capture1.JPG)
+3.Esegui il file Python con il comando attrib.py per [Esempio ](https://github.com/f1ache/Read.me/blob/main/input.JPG)
 
 ## Tags
 
