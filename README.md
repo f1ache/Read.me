@@ -40,4 +40,4 @@ Codifica
 
 ## Author
 
-Gabriel coropat
+Gabriel Coropat
